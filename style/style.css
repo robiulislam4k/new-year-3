@@ -138,3 +138,44 @@ margin-top: 80px;
     left: 55% ;
     z-index: 1;
 }
+.gift{
+color: #FF0000;
+width: 192px;
+height: 29px;
+font-weight: medium;
+font-size: 24px;
+margin-left: 18px;
+
+}
+.portfolio{
+    color: black;
+    width: 566px;
+    height: 60px;
+    font-size: 48px;
+    display: inline;
+
+}
+.our{
+    color: #070211;
+    width: 896px;
+    height: 64px;
+    font-size: 20px;
+    font-weight: 400px;
+    margin: 18px;
+
+}
+.group-photo{
+    width: 1320px;
+    height: 1300px;
+   
+    margin: 0 auto;
+    margin-top: 150px;
+  
+}
+.test{
+    width: 400px;
+    height: 426px;
+    display: inline;
+    margin: 0 auto;
+    
+}
